@@ -1,0 +1,33 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDEyMTM0NTkx",
+      "title": "MAYANK MONANI",
+      "url": "https://github.com/na899/SOP_Task1/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/38404853?v=4",
+        "url": "https://github.com/na899",
+        "login": "na899"
+      },
+      "createdAt": "2020-05-01T13:39:14Z",
+      "number": 7,
+      "changedFiles": 5,
+      "additions": 144,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "SOP_Task1",
+        "url": "https://github.com/na899/SOP_Task1",
+        "owner": {
+          "avatarUrl": "https://avatars1.githubusercontent.com/u/38404853?v=4",
+          "login": "na899",
+          "url": "https://github.com/na899"
+        }
+      }
+    }
+  ],
+  "merged": 1,
+  "open": 0,
+  "totalCount": 1
+}
