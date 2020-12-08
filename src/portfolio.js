@@ -11,9 +11,9 @@ const greeting = {
   logo_name: "MayankMonani",
   nickname: "mynk",
   subTitle:
-    "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate individual who thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/17ACwTM-YCOpxr9OxbdGQ5Fit4xMuqRae/view?usp=sharing",
+    "https://drive.google.com/file/d/1Hncndvly-0-QvxDYFzNDXnGg5vwgrDSn/view?usp=sharing",
   portfolio_repository: "https://github.com/mayankmonani7/mynk_portfolio",
 };
 
