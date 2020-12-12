@@ -13,7 +13,7 @@ const greeting = {
   subTitle:
     "A passionate individual who thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1tg0pXZtlwyl75BiC-ePhKBvM5r0EOaXY/view?usp=sharing",
+    "https://drive.google.com/file/d/186UF9EdPOKL_2BsMI-rKKxj6sXvW88pH/view?usp=sharing",
   portfolio_repository: "https://github.com/mayankmonani7/mynk_portfolio",
 };
 
